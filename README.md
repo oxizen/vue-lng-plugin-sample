@@ -1,4 +1,4 @@
-# vue-custom-i18n
+# vue-lng-plugin-sample
 
 ## Project setup
 ```
