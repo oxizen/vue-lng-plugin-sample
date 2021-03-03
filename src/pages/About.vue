@@ -3,7 +3,8 @@
     <div v-lng:about.hello></div>
     <router-link to="/" v-lng:goHome></router-link>
     <div>
-      <span>{{ $lng('ok') }}</span>
+      <div>{{ $lng('ok') }}</div>
+      <div>{{ $lng('about.good') }}</div>
     </div>
   </div>
 </template>
