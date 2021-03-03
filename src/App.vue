@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <router-view />
-    <a @click="changeLang(lang === 'kr' ? 'en' : 'kr')">Change Language [{{ lang }}]</a>
+    <a @click="changeLang(lang === 'ko' ? 'en' : 'ko')">Change Language [{{ lang }}]</a>
   </div>
 </template>
 
